@@ -8,7 +8,7 @@ export const mockUserNFTs: NFT[] = [
 		price: "0.9",
 	},
 	{
-		image: "/images/nft5.jpg",
+		image: "/images/nft2.jpg",
 		title: "Pixel Art Cat",
 		creator: "You",
 		price: "1.2",
